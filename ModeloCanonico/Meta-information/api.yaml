@@ -1,0 +1,15 @@
+id:
+  providerName: admin
+  apiName: ModeloCanonicoElétrico
+  version: 1.0.0
+type: HTTP
+context: /ModeloCanonicoElétrico/1.0.0
+contextTemplate: /ModeloCanonicoElétrico/{version}
+availableTiers:
+- name: Unlimited
+status: CREATED
+visibility: public
+transports: http,https
+productionUrl: http://localhost:8080
+sandboxUrl: http://localhost:8081
+enableStore: true

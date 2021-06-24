@@ -1,0 +1,3 @@
+jwt_teste/public.pem
+https://poptst.ons.org.br/ons.pop.federation/
+[{'n': 'tLgXWcnBGHGD6ulg3zQ7czK_X-GepOkRgKS41NQWdEjSn7IfN2Ecg8_bpqRWkgWw75IBZDGKrotdIT88AIR-7YtyRBaLwY7D6lfkqAw_Lwky66YQx2ALNWyftpwPCxn0ZLt5Sab75WLo1NeL3kRvF_WdWjFVz3JorzAksNj7EWO8-vxjzaaIbwQRlcIUcXC_ox8lLVa_MTg_jY7M1ixUkSnMJbdfn5BZseN0vIjY2yymmH1Li2ICQ-5pgem1XKaqoQUQC8ZIkSEhSToN12FDtUd2AmrkF__gSk7xfPRIfpohdpxzFAPK3CbGzlmVumu2f05F39DijiwG3beYb4gpHQ', 'e': 'AQAB', 'kty': 'RSA', 'kid': 'https://poptst.ons.org.br/ons.pop.federation/'}]

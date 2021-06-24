@@ -1,0 +1,21 @@
+id:
+  providerName: admin
+  apiName: Hidrologia
+  version: 1.0.0
+description: API que fornece dados hidrológicos
+type: HTTP
+context: /hidrologia/v1/1.0.0
+contextTemplate: /hidrologia/v1/{version}
+tags:
+- Autenticação
+- Grandezas Hidrológicas
+- Precipitação Observada
+- Reservatório
+availableTiers:
+- name: Unlimited
+status: CREATED
+visibility: public
+transports: http,https
+productionUrl: http://homapis.ons.org.br:8080
+sandboxUrl: http://homapis.ons.org.br:8081
+enableStore: true

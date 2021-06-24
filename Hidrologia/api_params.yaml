@@ -1,0 +1,10 @@
+environments:
+  - name: lab
+    endpoints:
+      production:
+      sandbox:
+
+deploy:
+  import:
+    update: true
+    preserveProvider: true
